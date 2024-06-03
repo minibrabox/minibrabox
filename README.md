@@ -1,19 +1,19 @@
 luis fernando 
+
 idade: 16 
+
 signo: gemêos
-## Hi there 👋
 
-<!--
-**minibrabox/minibrabox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sou aluno
 
-Here are some ideas to get you started:
+estou estudando alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou desenvolvendo javascript
+
+estou aprendendo a mexer no github 
+
+vc pd entrar em ctt cmg
+
+00001113785548SP@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/xo_VcKlhZiYAAAAC/vinijr.gif)
